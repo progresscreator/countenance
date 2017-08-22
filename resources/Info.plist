@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>David House</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>${Countenance}</string>
+	<key>CFBundleIconFile</key>
+	<string>sysicon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yourcompany.${Countenance:identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${Countenance}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>David House</string>
+	<key>CFBundleVersion</key>
+	<string>2.0</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright 2008 David House, dvmhouse@gmail.com</string>
+	<key>CFBundleDisplayName</key>
+	<string>Countenance</string>
+</dict>
+</plist>
